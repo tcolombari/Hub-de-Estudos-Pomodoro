@@ -1,0 +1,5 @@
+{
+  "name": "FocusFlow AI",
+  "description": "A smart Pomodoro study timer that helps organize subjects and generates AI-powered study roadmaps using Gemini.",
+  "requestFramePermissions": []
+}
